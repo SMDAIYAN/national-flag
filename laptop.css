@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+.ball {
+    position: absolute;
+    left: 129.5px;
+    top: 31.5px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: chocolate;
+}
+.stick {
+    position: absolute;
+    left: 133.5px;
+    top: 50px;
+    background-color: chocolate;
+    height: 450px;
+    width: 10px;
+}
+
+.flag {
+    position: absolute;
+    height: 240px;
+    background-color: green;
+    width: 400px;
+    left: 143px;
+    top: 52px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle {
+    width:150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.base {
+    position: absolute;
+    bottom: 2px;
+    left: 78px;
+    height: 90px;
+    width: 120px;
+    background-color: chocolate;
+}
