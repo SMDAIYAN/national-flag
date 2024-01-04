@@ -9,8 +9,9 @@
     justify-content: center;
     align-items: center;
     position: relative;
-    height: 100vh;
+    height: 598px;
     width: 100vw;
+    background-color: aqua;
 }
 
 .ball {
@@ -52,7 +53,7 @@
 
 .base {
     position: relative;
-    bottom: 154px;
+    bottom: 160px;
     left: 78px;
     height: 90px;
     width: 120px;
