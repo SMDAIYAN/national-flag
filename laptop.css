@@ -51,8 +51,8 @@
 }
 
 .base {
-    position: absolute;
-    bottom: 2px;
+    position: relative;
+    bottom: 47px;
     left: 78px;
     height: 90px;
     width: 120px;
