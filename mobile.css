@@ -12,3 +12,8 @@
     height: 80px;
 }
 
+.base {
+    position: relative;
+    bottom: 47px;
+    left: 78px;
+}
